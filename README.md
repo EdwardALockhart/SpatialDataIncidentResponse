@@ -1,6 +1,6 @@
 # Spatial Data for Incident Response (Cave Rescue)
 
-As seen at ResCon22 (British Cave Rescue Council Conference, 2022) [```ResCon22 slides```](https://github.com/EdwardALockhart/SpatialDataIncidentResponse/raw/main/Files/ResCon22_Redacted.pdf) - my contact details are included.
+As seen at ResCon22 (British Cave Rescue Council Conference, 2022) [```ResCon22 slides```](https://github.com/EdwardALockhart/SpatialDataIncidentResponse/raw/main/Files/ResCon22_Redacted.pdf) (includes contact details).
 
 If you are a search and rescue team who would like help implementing this methodology or with any time-consuming or complex geospatial data tasks, I would be happy to help - contact me directly.
 
