@@ -58,7 +58,7 @@ Why a cave rescue team would want to use this methodology:
         - Latitude - decimal degrees (WGS84)
         - Easting - metres (British National Grid)
         - Northing - metres (British National Grid)
-        - GridRef1m - Ordnance Survey 1m grid reference
+        - GridRef - Ordnance Survey grid reference
         - What3Words - What3Words address
         - GoogleMapsURL - Google Maps URL for directions and Street View
     - Metadata (RVs only)
